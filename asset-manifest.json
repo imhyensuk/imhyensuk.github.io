@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d507ef99.css",
+    "main.js": "/static/js/main.31aaddb8.js",
+    "static/js/453.351bcca6.chunk.js": "/static/js/453.351bcca6.chunk.js",
+    "static/media/concert4.jpg": "/static/media/concert4.51732ffdba2b3bd8460d.jpg",
+    "static/media/concert3.jpg": "/static/media/concert3.e41011dba892661edc02.jpg",
+    "static/media/console2.jpg": "/static/media/console2.e00b5475b274d714d5fe.jpg",
+    "static/media/concert2.jpg": "/static/media/concert2.3daca38511a5ede46350.jpg",
+    "static/media/console4.png": "/static/media/console4.61923f6f4f2d85babdab.png",
+    "static/media/console1.jpg": "/static/media/console1.ebe9635a455d5dc931b9.jpg",
+    "static/media/concert1.jpg": "/static/media/concert1.03cd6c1b320314d69037.jpg",
+    "static/media/equalizerPage.png": "/static/media/equalizerPage.5d25f51883622b70639d.png",
+    "static/media/reverbPage.png": "/static/media/reverbPage.530118b41c62466d6a31.png",
+    "static/media/compressorPage.png": "/static/media/compressorPage.7cb657aff2be7a778090.png",
+    "static/media/console3.webp": "/static/media/console3.43ed5c5236f7ae62a8b7.webp",
+    "index.html": "/index.html",
+    "main.d507ef99.css.map": "/static/css/main.d507ef99.css.map",
+    "main.31aaddb8.js.map": "/static/js/main.31aaddb8.js.map",
+    "453.351bcca6.chunk.js.map": "/static/js/453.351bcca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d507ef99.css",
+    "static/js/main.31aaddb8.js"
+  ]
+}
