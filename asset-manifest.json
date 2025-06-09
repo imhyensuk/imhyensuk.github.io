@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b9d676.css",
+    "main.js": "/static/js/main.7c0681db.js",
+    "static/js/453.5e560239.chunk.js": "/static/js/453.5e560239.chunk.js",
+    "static/media/building.jpg": "/static/media/building.2fbdc409af625491cfc1.jpg",
+    "static/media/section2.jpg": "/static/media/section2.28a093046aaaf6e29d03.jpg",
+    "static/media/newyork.jpg": "/static/media/newyork.5604a3cadcb4233356dc.jpg",
+    "static/media/fairness.jpg": "/static/media/fairness.2a518eb2d315e3a96b44.jpg",
+    "static/media/list.png": "/static/media/list.b994077740bf1f0f6f81.png",
+    "static/media/section1.png": "/static/media/section1.03f2592d81a00cb45a73.png",
+    "static/media/dashboard.png": "/static/media/dashboard.073248813956016e5a36.png",
+    "static/media/suggest.png": "/static/media/suggest.54288f6946926448ff73.png",
+    "static/media/contact.png": "/static/media/contact.ab3335486350f974a389.png",
+    "static/media/problem.webp": "/static/media/problem.6eb4c80aa769ee41d6c7.webp",
+    "index.html": "/index.html",
+    "main.93b9d676.css.map": "/static/css/main.93b9d676.css.map",
+    "main.7c0681db.js.map": "/static/js/main.7c0681db.js.map",
+    "453.5e560239.chunk.js.map": "/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b9d676.css",
+    "static/js/main.7c0681db.js"
+  ]
+}
